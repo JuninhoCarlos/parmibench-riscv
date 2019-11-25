@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ParMiBench
 ==========
 
@@ -29,4 +29,4 @@ string search, Basicmath e dijkstra ficam em loop infinito. Modificar o codigo p
 =======
 # parmibench-riscv
 This repo contains the parmibench suite with the makefile adapted to run on Risc-v architecture
->>>>>>> c736d3473c14451b19e20c0a4a86b7b50fc6c6a9
+
